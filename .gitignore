@@ -6,3 +6,8 @@ __pycache__/
 .venv/
 venv/
 env/
+.tmp/
+build/
+*.tmp
+*.spec
+*.exe
